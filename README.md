@@ -16,3 +16,11 @@
 cd backend
 dotnet restore
 dotnet run
+```
+
+### 🔹 React
+```bash
+cd frontend
+npm install
+npm start
+```
