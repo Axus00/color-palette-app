@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{06A935C7-F9D7-4A86-89DF-DAB4EF281361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPalette.Api", "src\ColorPalette.Api\ColorPalette.Api.csproj", "{3A5ABC81-321A-46D0-BDF8-DEF19838ED19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{86325F4D-6A28-4DA6-B678-6C6D70506227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPalette.Tests", "tests\ColorPalette.Tests\ColorPalette.Tests.csproj", "{50B56FB8-A1BB-4FD8-8095-DDD5153269A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPalette.Application", "src\ColorPalette.Application\ColorPalette.Application.csproj", "{93AE08FE-C3B4-45ED-99ED-7DE614ED8F13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPalette.Domain", "src\ColorPalette.Domain\ColorPalette.Domain.csproj", "{C311FB38-26A9-49A4-9DAF-BE18FE5F7A4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPalette.Infrastructure", "src\ColorPalette.Infrastructure\ColorPalette.Infrastructure.csproj", "{E7D92B7D-F91D-4D96-9763-441F410ACA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A5ABC81-321A-46D0-BDF8-DEF19838ED19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5ABC81-321A-46D0-BDF8-DEF19838ED19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5ABC81-321A-46D0-BDF8-DEF19838ED19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5ABC81-321A-46D0-BDF8-DEF19838ED19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B56FB8-A1BB-4FD8-8095-DDD5153269A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B56FB8-A1BB-4FD8-8095-DDD5153269A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B56FB8-A1BB-4FD8-8095-DDD5153269A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B56FB8-A1BB-4FD8-8095-DDD5153269A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93AE08FE-C3B4-45ED-99ED-7DE614ED8F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AE08FE-C3B4-45ED-99ED-7DE614ED8F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AE08FE-C3B4-45ED-99ED-7DE614ED8F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AE08FE-C3B4-45ED-99ED-7DE614ED8F13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C311FB38-26A9-49A4-9DAF-BE18FE5F7A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C311FB38-26A9-49A4-9DAF-BE18FE5F7A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C311FB38-26A9-49A4-9DAF-BE18FE5F7A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C311FB38-26A9-49A4-9DAF-BE18FE5F7A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D92B7D-F91D-4D96-9763-441F410ACA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D92B7D-F91D-4D96-9763-441F410ACA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D92B7D-F91D-4D96-9763-441F410ACA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D92B7D-F91D-4D96-9763-441F410ACA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A5ABC81-321A-46D0-BDF8-DEF19838ED19} = {06A935C7-F9D7-4A86-89DF-DAB4EF281361}
+		{50B56FB8-A1BB-4FD8-8095-DDD5153269A6} = {86325F4D-6A28-4DA6-B678-6C6D70506227}
+		{93AE08FE-C3B4-45ED-99ED-7DE614ED8F13} = {06A935C7-F9D7-4A86-89DF-DAB4EF281361}
+		{C311FB38-26A9-49A4-9DAF-BE18FE5F7A4C} = {06A935C7-F9D7-4A86-89DF-DAB4EF281361}
+		{E7D92B7D-F91D-4D96-9763-441F410ACA2B} = {06A935C7-F9D7-4A86-89DF-DAB4EF281361}
+	EndGlobalSection
+EndGlobal
