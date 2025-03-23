@@ -1,0 +1,16 @@
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\bin\Debug\net8.0\ColorPalette.Infrastructure.deps.json
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\bin\Debug\net8.0\ColorPalette.Infrastructure.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\bin\Debug\net8.0\ColorPalette.Infrastructure.pdb
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\bin\Debug\net8.0\ColorPalette.Domain.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\bin\Debug\net8.0\ColorPalette.Domain.pdb
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ColorPalette.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ColorPalette.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ColorPalette.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ColorPalette.Infrastructure.AssemblyInfo.cs
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ColorPalette.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ColorPalette.Infrastructure.sourcelink.json
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ColorPal.64B03A06.Up2Date
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ColorPalette.Infrastructure.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\refint\ColorPalette.Infrastructure.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ColorPalette.Infrastructure.pdb
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ref\ColorPalette.Infrastructure.dll

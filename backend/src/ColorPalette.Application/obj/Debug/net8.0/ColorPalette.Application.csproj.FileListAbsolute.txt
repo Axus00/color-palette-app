@@ -1,0 +1,12 @@
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\bin\Debug\net8.0\ColorPalette.Application.deps.json
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\bin\Debug\net8.0\ColorPalette.Application.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\bin\Debug\net8.0\ColorPalette.Application.pdb
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ColorPalette.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ColorPalette.Application.AssemblyInfoInputs.cache
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ColorPalette.Application.AssemblyInfo.cs
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ColorPalette.Application.csproj.CoreCompileInputs.cache
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ColorPalette.Application.sourcelink.json
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ColorPalette.Application.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\refint\ColorPalette.Application.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ColorPalette.Application.pdb
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ref\ColorPalette.Application.dll
