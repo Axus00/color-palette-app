@@ -41,10 +41,6 @@ namespace ColorPalette.Infrastructure.Migrations
                     b.Property<int>("PaletteId")
                         .HasColumnType("int");
 
-                    b.Property<string>("Rgb")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
                     b.HasKey("Id");
 
                     b.HasIndex("PaletteId");

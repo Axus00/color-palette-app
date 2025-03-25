@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ColorPalette.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de434fa31fa99232b4512bd65074c380e559f010")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3abe100c0d7c80514e252286218364f4fa61c3ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("ColorPalette.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ColorPalette.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

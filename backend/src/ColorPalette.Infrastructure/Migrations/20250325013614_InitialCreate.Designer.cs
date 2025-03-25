@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ColorPalette.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250323213906_InitialCreate")]
+    [Migration("20250325013614_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -43,10 +43,6 @@ namespace ColorPalette.Infrastructure.Migrations
 
                     b.Property<int>("PaletteId")
                         .HasColumnType("int");
-
-                    b.Property<string>("Rgb")
-                        .IsRequired()
-                        .HasColumnType("longtext");
 
                     b.HasKey("Id");
 
