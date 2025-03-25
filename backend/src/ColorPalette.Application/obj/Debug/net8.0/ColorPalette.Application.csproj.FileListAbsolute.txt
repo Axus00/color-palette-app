@@ -10,3 +10,7 @@ C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.App
 C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\refint\ColorPalette.Application.dll
 C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ColorPalette.Application.pdb
 C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ref\ColorPalette.Application.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\bin\Debug\net8.0\ColorPalette.Domain.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\bin\Debug\net8.0\ColorPalette.Domain.pdb
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ColorPalette.Application.csproj.AssemblyReference.cache
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Application\obj\Debug\net8.0\ColorPal.A0C61252.Up2Date

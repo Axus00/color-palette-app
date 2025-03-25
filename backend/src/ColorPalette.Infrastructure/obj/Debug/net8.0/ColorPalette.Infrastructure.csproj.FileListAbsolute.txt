@@ -14,3 +14,5 @@ C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Inf
 C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\refint\ColorPalette.Infrastructure.dll
 C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ColorPalette.Infrastructure.pdb
 C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\obj\Debug\net8.0\ref\ColorPalette.Infrastructure.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\bin\Debug\net8.0\ColorPalette.Application.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Infrastructure\bin\Debug\net8.0\ColorPalette.Application.pdb

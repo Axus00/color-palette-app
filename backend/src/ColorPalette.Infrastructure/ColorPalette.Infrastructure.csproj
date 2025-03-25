@@ -14,11 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Mappers\" />
-    <Folder Include="Persistence\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\ColorPalette.Application\ColorPalette.Application.csproj" />
     <ProjectReference Include="..\ColorPalette.Domain\ColorPalette.Domain.csproj" />
   </ItemGroup>
 

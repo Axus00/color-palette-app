@@ -140,3 +140,5 @@ C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Api
 C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Api\bin\Debug\net8.0\ColorPalette.Infrastructure.dll
 C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Api\bin\Debug\net8.0\ColorPalette.Infrastructure.pdb
 C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Api\bin\Debug\net8.0\ColorPalette.Domain.pdb
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Api\bin\Debug\net8.0\ColorPalette.Application.dll
+C:\Users\fjgt2\Documents\Proyects\color-palette-app\backend\src\ColorPalette.Api\bin\Debug\net8.0\ColorPalette.Application.pdb

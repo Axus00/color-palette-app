@@ -774,6 +774,18 @@
         }
       },
       "System.Threading.Channels/7.0.0": {},
+      "ColorPalette.Application/1.0.0": {
+        "dependencies": {
+          "ColorPalette.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.3"
+        },
+        "runtime": {
+          "ColorPalette.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "ColorPalette.Domain/1.0.0": {
         "runtime": {
           "ColorPalette.Domain.dll": {
@@ -785,6 +797,7 @@
       "ColorPalette.Infrastructure/1.0.0": {
         "dependencies": {
           "AutoMapper": "14.0.0",
+          "ColorPalette.Application": "1.0.0",
           "ColorPalette.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.3",
           "Microsoft.EntityFrameworkCore.Relational": "9.0.3",
@@ -1224,6 +1237,11 @@
       "sha512": "sha512-qmeeYNROMsONF6ndEZcIQ+VxR4Q/TX/7uIVLJqtwIWL7dDWeh0l1UIqgo4wYyjG//5lUNhwkLDSFl+pAWO6oiA==",
       "path": "system.threading.channels/7.0.0",
       "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
+    },
+    "ColorPalette.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "ColorPalette.Domain/1.0.0": {
       "type": "project",

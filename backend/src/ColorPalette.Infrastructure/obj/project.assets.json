@@ -305,6 +305,20 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "ColorPalette.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ColorPalette.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.3"
+        },
+        "compile": {
+          "bin/placeholder/ColorPalette.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ColorPalette.Application.dll": {}
+        }
+      },
       "ColorPalette.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -787,6 +801,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "ColorPalette.Application/1.0.0": {
+      "type": "project",
+      "path": "../ColorPalette.Application/ColorPalette.Application.csproj",
+      "msbuildProject": "../ColorPalette.Application/ColorPalette.Application.csproj"
+    },
     "ColorPalette.Domain/1.0.0": {
       "type": "project",
       "path": "../ColorPalette.Domain/ColorPalette.Domain.csproj",
@@ -796,6 +815,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 14.0.0",
+      "ColorPalette.Application >= 1.0.0",
       "ColorPalette.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.3",
       "Microsoft.EntityFrameworkCore.Relational >= 9.0.3",
@@ -827,6 +847,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\fjgt2\\Documents\\Proyects\\color-palette-app\\backend\\src\\ColorPalette.Application\\ColorPalette.Application.csproj": {
+              "projectPath": "C:\\Users\\fjgt2\\Documents\\Proyects\\color-palette-app\\backend\\src\\ColorPalette.Application\\ColorPalette.Application.csproj"
+            },
             "C:\\Users\\fjgt2\\Documents\\Proyects\\color-palette-app\\backend\\src\\ColorPalette.Domain\\ColorPalette.Domain.csproj": {
               "projectPath": "C:\\Users\\fjgt2\\Documents\\Proyects\\color-palette-app\\backend\\src\\ColorPalette.Domain\\ColorPalette.Domain.csproj"
             }

@@ -1,3 +1,4 @@
+using ColorPalette.Application;
 using ColorPalette.Infrastructure;
 using Scalar.AspNetCore;
 
@@ -10,6 +11,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 
 //Services
+builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
 
 var app = builder.Build();

@@ -1227,6 +1227,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "ColorPalette.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ColorPalette.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.3"
+        },
+        "compile": {
+          "bin/placeholder/ColorPalette.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ColorPalette.Application.dll": {}
+        }
+      },
       "ColorPalette.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1242,6 +1256,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "AutoMapper": "14.0.0",
+          "ColorPalette.Application": "1.0.0",
           "ColorPalette.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.3",
           "Microsoft.EntityFrameworkCore.Relational": "9.0.3",
@@ -3725,6 +3740,11 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ColorPalette.Application/1.0.0": {
+      "type": "project",
+      "path": "../ColorPalette.Application/ColorPalette.Application.csproj",
+      "msbuildProject": "../ColorPalette.Application/ColorPalette.Application.csproj"
     },
     "ColorPalette.Domain/1.0.0": {
       "type": "project",
